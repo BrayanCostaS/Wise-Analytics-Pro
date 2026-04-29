@@ -42,3 +42,7 @@ Este projeto foi desenvolvido estritamente para uso administrativo interno.
 
 ---
 *Este projeto faz parte do meu portfólio de soluções focadas em eficiência operacional e desenvolvimento Full Stack.*
+
+<img width="1053" height="315" alt="image" src="https://github.com/user-attachments/assets/bea1e1fa-a35b-4635-849a-a096ba1be948" />
+
+
