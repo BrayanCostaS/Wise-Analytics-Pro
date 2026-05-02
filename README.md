@@ -1,6 +1,17 @@
 # WISE Analytics Pro 🚀
 > Sistema de Auditoria e Inteligência de Dados para Gestão Educacional.
 
+## ⚙️ Arquitetura do Sistema
+
+O projeto foi desenvolvido utilizando uma abordagem de pipeline de dados completo:
+
+- 🔎 Coleta de Dados: Extração automatizada (web scraping) de registros acadêmicos  
+- 🧹 Tratamento (ETL): Limpeza e estruturação dos dados antes da persistência  
+- 🗄️ Armazenamento: Banco de dados em nuvem  
+- ⚡ Backend lógico: Regras de negócio para cálculo de progresso acadêmico  
+- 💻 Frontend: Interface em React com visualização dinâmica  
+- ☁️ Deploy: Aplicação hospedada no Netlify  
+
 O **WISE Analytics Pro** é uma solução de auditoria de dados desenvolvida para resolver gargalos de produtividade no processamento de históricos escolares e créditos acadêmicos. O projeto transforma um fluxo de trabalho manual e exaustivo em uma operação automatizada, reativa e focada em insights.
 
 ---
