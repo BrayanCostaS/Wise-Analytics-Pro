@@ -7,7 +7,7 @@ O projeto foi desenvolvido utilizando uma abordagem de pipeline de dados complet
 
 - 🔎 Coleta de Dados: Extração automatizada (web scraping) de registros acadêmicos  
 - 🧹 Tratamento (ETL): Limpeza e estruturação dos dados antes da persistência  
-- 🗄️ Armazenamento: Banco de dados em nuvem  
+- 🗄️ Armazenamento: Banco de dados em nuvem  - Supabase
 - ⚡ Backend lógico: Regras de negócio para cálculo de progresso acadêmico  
 - 💻 Frontend: Interface em React com visualização dinâmica  
 - ☁️ Deploy: Aplicação hospedada no Netlify  
